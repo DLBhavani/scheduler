@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+body{
+  margin:30px;
+}
+.e-schedule .e-month-view .e-work-days	{
+  background-color: red;
+  border-color: black;
+}
